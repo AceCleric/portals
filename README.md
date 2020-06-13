@@ -1,6 +1,6 @@
 # Portal
 
-**TODO: Add description**
+**Just a introduction for me to elixir**
 
 ## Installation
 
@@ -15,7 +15,6 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/portal](https://hexdocs.pm/portal).
+Use guide:
+https://howistart.org/posts/elixir/1/
 
